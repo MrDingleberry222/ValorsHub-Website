@@ -1,0 +1,13 @@
+{
+  "name": "valorshub-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser version of ValorsHub with an optional localhost-only Windows companion",
+  "scripts": {
+    "start": "node server.js",
+    "start:railway": "node railway-server.js"
+  },
+  "dependencies": {
+    "systeminformation": "5.33.10"
+  }
+}
