@@ -2,6 +2,10 @@
 
 This folder contains a browser version of the ValorsHub interface, an optional Windows companion for local-machine features, and a static-only Railway deployment mode.
 
+## Original Creator:
+Valor (valortheplug: 1185991173958008843)
+https://discord.gg/trNgGFTv88
+
 ## Start
 
 1. Install Node.js 18 or newer.
